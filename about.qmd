@@ -4,27 +4,21 @@ sidebar: false
 ---
 
 # Education
-
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2026 - ongoing.
 
 # Work Experience
-
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
-
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
+1. TAI, Intern, July 2023
+2. MKE, Intern, August 2023
+2. TRT, Intern, July 2025
 
 # Competencies
-
 R, Quarto, Git, Python
 
 # Hobbies
+- Reading books
+- Watching TV series and movies 
+- Creating art and illustrations
+
+# Download My CV
+[Download CV](https://github.com/seymaceliker/emu430-spring2026-seymaceliker/blob/main/Seyma%20Celiker%20cv.pdf){.btn .btn-primary}
