@@ -1,12 +1,13 @@
 ---
-title: "Welcome to My Analytics Lab"
+title: "Assignments"
 sidebar: false 
 ---
 
-Hello! My name is xxx xxxx.
+Hello!!! My name is Şeyma Çeliker (seymaceliker).
 
-This is my personal webpage.
+Welcome to my personal webpage. Here you can follow my assignments, projects on data analytics, blog posts, and more.
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
+*[GitHub](https://github.com/seymaceliker)
+*[LinkedIn](https://www.linkedin.com/in/şeyma-çeliker-23080b24a)
+*[Email](mailto:symaceliker@gmail.com)
 
-This is our template.
