@@ -8,7 +8,6 @@ My first assignment has two parts
 {r}
 my_first <- "seyma"     
 my_birth_year <- 2001      
-
 k <- (nchar(my_first) + my_birth_year) %% 15 + 8
 
 library(dslabs)
@@ -67,7 +66,7 @@ print(anyNA(df_new))
 [Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Cem Vardar & Erdi Dasdemir](https://youtu.be/Fi8-phj1X1A?si=JTGz2JV-V13XRXwC) I chose this video.
 
 ### Summary
-The video explains how engineers use science and math to solve real-world problems. Industrial engineers focus especially on complex and multi-step problems. Data science and data analysis are tools to help solve these problems. Data is collected and processed using techniques like SQL, Python, and R, and is visualized with Tableau or Power BI. Cem Vardar gives examples of how these methods are used at his workplace. The main skills needed for data scientists are problem solving, collecting and processing data, and visualizing. As advice, it is important to learn SQL and approach our work with a mindset of improving the system.
+The video explains how engineers use science and math to solve real-world problems. Industrial engineers focus especially on complex and multi-step problems. Data science and data analysis are tools t[...]  
 ^[AI was used to improve the clarity of English wording. Prompt: "Check the English summary for grammar or wording mistakes and suggest better expressions if needed."]
 
 
@@ -82,4 +81,3 @@ B) Tableau
 C) Notepad
 
 Answer: C) Notepad
----
